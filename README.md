@@ -4,7 +4,5 @@ In search of a good data analysis, we develop a dashboard where you can enter th
 
 Examples below
 ![alt text](https://github.com/BryanAstuyauri16/Youtube-API/blob/main/example%201.png)
-
 ![alt text](https://github.com/BryanAstuyauri16/Youtube-API/blob/main/example%202.png)
-
 ![alt text](https://github.com/BryanAstuyauri16/Youtube-API/blob/main/example%203.png)
